@@ -5,14 +5,14 @@
     <meta content="Free Website Template" name="description">
 
     <!-- Favicon -->
-    <link href="{{ asset('dashboard/img/favicon.ico" rel=')}}"icon">
-
+   <link href="{{ asset('dashboard/img/favicon.ico')}}" rel="icon">
+   
     <!-- Google Font -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="{{ asset('dashboard/https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400&family=Roboto:wght@400;500;700&display=swap')}}" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet"> 
 
     <!-- Font Awesome -->
-    <link href="{{ asset('dashboard/https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css')}}" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
 
     <!-- Libraries Stylesheet -->
     <link href="{{ asset('dashboard/lib/owlcarousel/assets/owl.carousel.min.css')}}" rel="stylesheet">
